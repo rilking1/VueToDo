@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VueToDo.Server", "VueToDo.Server\VueToDo.Server.csproj", "{3515942F-3359-4F57-B13D-2C2A42A1A021}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vuetodo.client", "vuetodo.client\vuetodo.client.esproj", "{CD3DD5E0-9E80-4E02-9DDE-B8985E71C31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3515942F-3359-4F57-B13D-2C2A42A1A021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3515942F-3359-4F57-B13D-2C2A42A1A021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3515942F-3359-4F57-B13D-2C2A42A1A021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3515942F-3359-4F57-B13D-2C2A42A1A021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3DD5E0-9E80-4E02-9DDE-B8985E71C31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3DD5E0-9E80-4E02-9DDE-B8985E71C31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3DD5E0-9E80-4E02-9DDE-B8985E71C31D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CD3DD5E0-9E80-4E02-9DDE-B8985E71C31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3DD5E0-9E80-4E02-9DDE-B8985E71C31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3DD5E0-9E80-4E02-9DDE-B8985E71C31D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5089A22-AA5B-43E3-A4CF-5944E2FBA5F0}
+	EndGlobalSection
+EndGlobal
